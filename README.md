@@ -1,2 +1,2 @@
-# boxTest
+# rnSample1
 Created with CodeSandbox
